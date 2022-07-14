@@ -1,0 +1,48 @@
+.button{
+    text-transform: lowercase;
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    color: white;
+}
+
+.button-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.button-primary:hover{
+    background-color: var(--primary);
+    color: var(--primary;)
+}
+
+.button-primary-outline{
+    color: var(--primary);
+}
+
+.col-md-6.alling-self-center{
+    padding: 20px;
+    margin: 20px;
+}
+
+.col-md-6 .aling-self-center img{
+    height: 350px;
+    width: 350px;
+}
+
+.font-com-margin-top{
+    margin-top: 65px;
+    font-size: 25px;
+}
+
+.font-slider{
+    margin-left: 25px;
+    
+}
+
+.background-imagem{
+    background-image: url('./imagens/nosAresTur.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
